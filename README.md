@@ -74,9 +74,9 @@
 ## 📫 Establish Connection
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="YOUR_TRYHACKME_URL"><img src="https://img.shields.io/badge/TryHackMe-880000?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/anurag666/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://tryhackme.com/p/anurag666"><img src="https://img.shields.io/badge/TryHackMe-880000?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
+  <a href="https://anurags-007.github.io/anurag-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white"></a>
 </p>
 
 <p align="center"> 
