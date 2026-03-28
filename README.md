@@ -135,9 +135,9 @@ Hop 4 ── HackerOne   ──► Active Bug Bounty Hunter
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║  "Break it. Understand it. Secure it. Repeat."                ║
-╚═══════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
+║  "The quieter you become, the more you are able to hear." — Kali Linux ║
+╚════════════════════════════════════════════════════════════════════════╝
 ```
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer)
