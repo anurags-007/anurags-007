@@ -117,12 +117,6 @@
 <!-- CONTACT -->
 ## `$ traceroute --contact anurags-007`
 
-```
-Hop 1 ── LinkedIn    ──► https://linkedin.com/in/anurag666
-Hop 2 ── TryHackMe   ──► https://tryhackme.com/p/anurag666
-Hop 3 ── Portfolio   ──► https://anurags-007.github.io/anurag-portfolio/
-Hop 4 ── HackerOne   ──► Active Bug Bounty Hunter
-```
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anurag666/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5"></a>
