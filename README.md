@@ -92,12 +92,9 @@
 ## `$ curl https://api.github.com/users/anurags-007/stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anurags-007&show_icons=true&theme=chartreuse-dark&border_color=00FF41&border_radius=6&bg_color=0d1117&title_color=00FF41&icon_color=00FF41" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anurags-007&theme=dark&border=00FF41&ring=00FF41&fire=ff4444&currStreakLabel=00FF41&background=0d1117&border_radius=6" height="165">
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurags-007&layout=compact&theme=chartreuse-dark&border_color=00FF41&border_radius=6&bg_color=0d1117&title_color=00FF41" height="165">
-</p>
+
 
 ---
 
